@@ -1,5 +1,7 @@
 # Quiet Music, Weak Sounds
 
+![qmws](qmws.jpg?raw=true "qmws")
+
 ## Overview
 
 Kyoto-based researcher and sound artist Eisuke Yanagisawa and I will collaboratively research the unheard, subtle, and weak sounds of Kyoto’s
