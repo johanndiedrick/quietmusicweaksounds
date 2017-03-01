@@ -22,7 +22,7 @@ In this workshop we will build Aeolian Harps, legendary instruments played by th
 
 ![iii](https://raw.githubusercontent.com/jdiedrick/iiitkaeswmhhvioow/master/site/diptychs/raeseries/rae3/rae_lakes_afternoon/rae_lakes_afternoon-1.jpg)
 
-[Mawaru](https://github.com/jdiedrick/mawaru)
+- [Mawaru](https://github.com/jdiedrick/mawaru)
 
 - Drawings for workshops (Colorful Waves, Naked Ear, etc)
 
