@@ -2,7 +2,7 @@
 
 ![qmws](qmws.jpg?raw=true "qmws")
 
-Quiet Music, Weak Sounds is a collaboration between sound artists Johann Diedrick and Eisuke Yanagisawa to discover, amplify, and share the subtle sounds in Kyoto, Japan. Over the course of four weeks, the Diedrick and Yanagisawa will explore Kyoto’s soundscape with custom microphones, amplifiers and field recorders. Informed with their findings, the two will host a series of workshops, teaching members of the community how to build and use their own sonic investigation tools. They will turn participants into acoustic explorers and take them on explorations of Kyoto to find, record, edit, and present their own found sounds. Afterward we will construct our own Aeolian Harps and introduce our own sounds to Kyoto’s Kamogawa river path. Finally, the two will present their findings to the community at large, in the form of a talk and reception party.
+Quiet Music, Weak Sounds is a collaboration between sound artists Johann Diedrick and Eisuke Yanagisawa to discover, amplify, and share the subtle sounds in Kyoto, Japan. Over the course of four weeks, the Diedrick and Yanagisawa will explore Kyoto’s soundscape with custom microphones, amplifiers and field recorders. Informed with their findings, the two will host a series of workshops, teaching members of the community how to build and use their own sonic investigation tools. They will turn participants into acoustic explorers and take them on explorations of Kyoto to find, record, edit, and present their own found sounds. Afterward we will construct our own Aeolian Harps and introduce our own sounds to Kyoto’s Kamogawa river path. Finally, the two will present their findings to the community at large, in the form of a talk and reception party. :tada:
 
 ## Workshops
 
@@ -31,5 +31,7 @@ In this workshop we will build Aeolian Harps, legendary instruments played by th
 - Translate workshops/work into Japanese
 
 - Daily recording, photo, song, drawing, writing
+
+-- 
 
 [Quiet Music, Weak Sounds Residency Proposal](https://docs.google.com/document/d/1286MGqH7eeQcaRNZjvp4SeOwq9juaScrVziQt5N3U64/edit?usp=sharing)
